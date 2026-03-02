@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "RATHER BE",
+  "base_artist": "The Kid LAROI",
+  "createdAt": "2026-03-02T11:59:43.598300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'd Rather Be High",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_I'd_Rather_Be_High_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'd Rather Be High - Venetian Mix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_I'd_Rather_Be_High_-_Venetian_Mix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'd Rather Be Your Lover",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/03_I'd_Rather_Be_Your_Lover_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rather Be",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/04_Rather_Be_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rather Be",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/05_Rather_Be_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rather Be (feat. Jess Glynne) - Robin Schulz Remix",
+      "artist": "Clean Bandit feat. Jess Glynne & Robin Schulz",
+      "has_synced": false,
+      "path": "select/06_Rather_Be_(feat._Jess_Glynne)_-_Robin_Schulz_Remix_Clean_Bandit_feat._Jess_Glynne_&_Robin_Schulz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rather Be (Robin Schulz remix)",
+      "artist": "Clean Bandit",
+      "has_synced": false,
+      "path": "select/07_Rather_Be_(Robin_Schulz_remix)_Clean_Bandit.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(I'd Rather Be) Anywhere but Here",
+      "artist": "Honeyblood",
+      "has_synced": true,
+      "path": "select/08_(I'd_Rather_Be)_Anywhere_but_Here_Honeyblood.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rather Be",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Ada Pasternak",
+      "has_synced": true,
+      "path": "select/09_Rather_Be_Scott_Bradlee's_Postmodern_Jukebox_feat._Ada_Pasternak.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rather Be",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/10_Rather_Be_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'd Rather Be Burned As A Witch",
+      "artist": "Eartha Kitt",
+      "has_synced": true,
+      "path": "select/11_I'd_Rather_Be_Burned_As_A_Witch_Eartha_Kitt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rather Be Alone",
+      "artist": "INOJ",
+      "has_synced": true,
+      "path": "select/12_Rather_Be_Alone_INOJ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'd Rather Be Sleeping",
+      "artist": "D.R.I.",
+      "has_synced": true,
+      "path": "select/13_I'd_Rather_Be_Sleeping_D.R.I..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rather Be Sleeping - Vats Demo",
+      "artist": "D.R.I.",
+      "has_synced": false,
+      "path": "select/14_Rather_Be_Sleeping_-_Vats_Demo_D.R.I..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'd Rather Be The Devil (Devil Got My Woman)",
+      "artist": "John Martyn",
+      "has_synced": false,
+      "path": "select/15_I'd_Rather_Be_The_Devil_(Devil_Got_My_Woman)_John_Martyn.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'd Rather Be The Devil",
+      "artist": "John Martyn",
+      "has_synced": false,
+      "path": "select/16_I'd_Rather_Be_The_Devil_John_Martyn.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rather Be Dead",
+      "artist": "Refused",
+      "has_synced": false,
+      "path": "select/17_Rather_Be_Dead_Refused.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rather Be",
+      "artist": "Clean Bandit",
+      "has_synced": true,
+      "path": "select/18_Rather_Be_Clean_Bandit.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Rather Be (Feat.Jess Glynne)",
+      "artist": "Clean Bandit",
+      "has_synced": true,
+      "path": "select/19_Rather_Be_(Feat.Jess_Glynne)_Clean_Bandit.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RATHER BE (feat. Lithe)",
+      "artist": "The Kid LAROI",
+      "has_synced": false,
+      "path": "select/pl_01_RATHER_BE_(feat._Lithe)_The_Kid_LAROI.txt"
+    }
+  ]
+}
